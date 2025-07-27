@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C9627974-D89A-478A-B5E1-660B701781FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Account", "Account", "{D26AD0B1-E4AA-4948-9CDA-6D893BC6DCA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureBankMS.Account", "src\Services\Account\SecureBankMS.Account\SecureBankMS.Account.csproj", "{3E0199FA-77F4-4FF2-8992-C1EED4195B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0199FA-77F4-4FF2-8992-C1EED4195B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0199FA-77F4-4FF2-8992-C1EED4195B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0199FA-77F4-4FF2-8992-C1EED4195B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0199FA-77F4-4FF2-8992-C1EED4195B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9627974-D89A-478A-B5E1-660B701781FC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D26AD0B1-E4AA-4948-9CDA-6D893BC6DCA8} = {C9627974-D89A-478A-B5E1-660B701781FC}
+		{3E0199FA-77F4-4FF2-8992-C1EED4195B12} = {D26AD0B1-E4AA-4948-9CDA-6D893BC6DCA8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0056DF-6C5C-42EF-8C23-877EC4DD4422}
+	EndGlobalSection
+EndGlobal
