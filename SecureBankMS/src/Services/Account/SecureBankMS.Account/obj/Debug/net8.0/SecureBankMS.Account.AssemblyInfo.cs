@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureBankMS.Account")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb76e838daa47de5ffd41af164c2fce834709d41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d53fec0522e6eeba235d4287ca5af627678f1d90")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureBankMS.Account")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureBankMS.Account")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

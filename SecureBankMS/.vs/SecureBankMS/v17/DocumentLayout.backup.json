@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E0199FA-77F4-4FF2-8992-C1EED4195B12}|src\\Services\\Account\\SecureBankMS.Account\\SecureBankMS.Account.csproj|c:\\users\\admin\\desktop\\banking-ops\\securebankms\\src\\services\\account\\securebankms.account\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0199FA-77F4-4FF2-8992-C1EED4195B12}|src\\Services\\Account\\SecureBankMS.Account\\SecureBankMS.Account.csproj|solutionrelative:src\\services\\account\\securebankms.account\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0199FA-77F4-4FF2-8992-C1EED4195B12}|src\\Services\\Account\\SecureBankMS.Account\\SecureBankMS.Account.csproj|c:\\users\\admin\\desktop\\banking-ops\\securebankms\\src\\services\\account\\securebankms.account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0199FA-77F4-4FF2-8992-C1EED4195B12}|src\\Services\\Account\\SecureBankMS.Account\\SecureBankMS.Account.csproj|solutionrelative:src\\services\\account\\securebankms.account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0199FA-77F4-4FF2-8992-C1EED4195B12}|src\\Services\\Account\\SecureBankMS.Account\\SecureBankMS.Account.csproj|c:\\users\\admin\\desktop\\banking-ops\\securebankms\\src\\services\\account\\securebankms.account\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0199FA-77F4-4FF2-8992-C1EED4195B12}|src\\Services\\Account\\SecureBankMS.Account\\SecureBankMS.Account.csproj|solutionrelative:src\\services\\account\\securebankms.account\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\src\\Services\\Account\\SecureBankMS.Account\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Account\\SecureBankMS.Account\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\src\\Services\\Account\\SecureBankMS.Account\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "src\\Services\\Account\\SecureBankMS.Account\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T22:53:57.458Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -37,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\src\\Services\\Account\\SecureBankMS.Account\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Account\\SecureBankMS.Account\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\src\\Services\\Account\\SecureBankMS.Account\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Account\\SecureBankMS.Account\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:39:57.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\src\\Services\\Account\\SecureBankMS.Account\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Account\\SecureBankMS.Account\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\banking-ops\\SecureBankMS\\src\\Services\\Account\\SecureBankMS.Account\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "src\\Services\\Account\\SecureBankMS.Account\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:38:46.802Z",
+              "EditorCaption": ""
             }
           ]
         }

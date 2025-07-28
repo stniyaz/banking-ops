@@ -146,3 +146,4 @@ C:\Users\Admin\Desktop\banking-ops\SecureBankMS\src\Services\Account\SecureBankM
 C:\Users\Admin\Desktop\banking-ops\SecureBankMS\src\Services\Account\SecureBankMS.Account\obj\Debug\net8.0\SecureBankMS.Account.genruntimeconfig.cache
 C:\Users\Admin\Desktop\banking-ops\SecureBankMS\src\Services\Account\SecureBankMS.Account\obj\Debug\net8.0\ref\SecureBankMS.Account.dll
 C:\Users\Admin\Desktop\banking-ops\SecureBankMS\src\Services\Account\SecureBankMS.Account\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\banking-ops\SecureBankMS\src\Services\Account\SecureBankMS.Account\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
